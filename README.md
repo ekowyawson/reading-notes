@@ -1,9 +1,7 @@
 # My reading journal for Code Fellows
 
 ### What a "growth mindset" means to me
-<style background:black;>
-  A growth mindset is a manner of thinking that beckons the thinker to never stop learning new things about a subject, regardless of how much he or she already knows about the subject.
-</style>
+A growth mindset is a manner of thinking that beckons the thinker to never stop learning new things about a subject, regardless of how much he or she already knows about the subject.
 
 The growth mindset allows for the thinker to always look for new and innovative ways to solve problems, rather than relying on an archaic, "This is how it has always been done" mentality.
 
