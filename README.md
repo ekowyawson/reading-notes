@@ -1,4 +1,4 @@
-# My reading journal for Code Fellows.
+# My reading journal for Code Fellows
 
 ### What a "growth mindset" means to me
 A growth mindset is a manner of thinking that beckons the thinker to never stop learning new things about a subject, regardless of how much he or she already knows about the subject.
