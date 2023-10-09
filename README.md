@@ -20,4 +20,4 @@ Without a growth mindset, an organization or person can easily fail to address n
 ![beach image](https://thumbs.dreamstime.com/z/summertime-concept-crossed-legs-beach-as-33585642.jpg?w=992)
 
 ### Portfolio
-Click [here](https://github.com/ekowyawson/reading-notes) to visit my GitHub portfolio.
+Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
