@@ -34,8 +34,7 @@ One asterisk creates an italicized text; two asterisks create a bold text; and t
 
 
 * TO create a hypertext link, you would use the following syntax; `[Name of Link](https://website-url)`:
-
-[GitHub](https://github.com)
+    * [GitHub](https://github.com)
 
 
 * You can create a bulleted (unordered) list by using the following three symbols `*`,`-`,`+` followed by a space, then the text:
