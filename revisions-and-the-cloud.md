@@ -35,6 +35,8 @@ git commit -a
 ```bash
 git push origin master
 ```
+
+
 ## Conclusion
 Git is a must have tool for any serious / professional developer. It is also very beginner friendly. No go Git’in!
 
