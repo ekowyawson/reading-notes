@@ -22,7 +22,7 @@ Let's look at some examples.
 
 * You can create a heading by using the pound `#` sign at the beginning of a line, followed by a single space, then the desired text. Consecutive pound signs 
 create incrementally smaller headings. The largest heading is created with one `#` sign and the smallest heading with six `#` signs:
-```md
+```markdown
 # The Largest Heading
 ###### The Smallest Heading
 ```
