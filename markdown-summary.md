@@ -20,30 +20,28 @@ simple to use, with a shallow learning curve.
 ## Markdown Examples:
 Let's look at some examples. 
 
-You can create a heading by using the pound `#` sign at the beginning of a line, followed by a single space, then the desired text. Consecutive pound signs 
+* You can create a heading by using the pound `#` sign at the beginning of a line, followed by a single space, then the desired text. Consecutive pound signs 
 create incrementally smaller headings. The largest heading is created with one `#` sign and the smallest heading with six `#` signs:
 # -> The Largest Heading
 ###### -> The Smallest Heading
 
 
-You can make a text `bold` or `italicized` for emphasis by using asterisks `*` symbol directly before and after a word or phrase.
+* You can make a text `bold` or `italicized` for emphasis by using asterisks `*` symbol directly before and after a word or phrase.
 One asterisk creates an italicized text; two asterisks create a bold text; and three asterisks create both bold and italicized text:
 *Text*
 **Text**
 ***Text***
 
 
-TO create a hypertext link, you would use the following syntax; `[Name of Link](https://website-url)`:
+* TO create a hypertext link, you would use the following syntax; `[Name of Link](https://website-url)`:
 
 [GitHub](https://github.com)
 
 
-You can create a bulleted (unordered) list by using the following three symbols `*`,`-`,`+` followed by a space, then the text:
-* Text 1
-
-- Test 2
-
-+ Text 3
+* You can create a bulleted (unordered) list by using the following three symbols `*`,`-`,`+` followed by a space, then the text:
+    * Text 1
+    - Test 2
+    + Text 3
 
 
 ## Conclusion
