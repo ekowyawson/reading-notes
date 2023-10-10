@@ -18,10 +18,10 @@ Using Markdown allows the author of a document or text to uniformly structure th
 simple to use, with a shallow learning curve.
 
 ## Markdown Examples:
-Let's look at some examples. You can create a heading by using the pound `#` sign at the beginning of a line, followed by a single space, then the desired text.
-Consecutive pound signs create incrementally smaller headings:
+Let's look at some examples. 
 
----
+You can create a heading by using the pound `#` sign at the beginning of a line, followed by a single space, then the desired text.
+Consecutive pound signs create incrementally smaller headings:
 
 Create the largest heading with one `#` sign:
 # The Largest Heading
@@ -29,7 +29,6 @@ Create the largest heading with one `#` sign:
 Create the smallest heading with six `#` signs:
 ###### The Smallest Heading
 
----
 
 You can make a text `bold` or `italicized` for emphasis by using asterisks `*` symbol directly before and after a word or phrase.
 One asterisk creates an italicized text; two asterisks create a bold text; and three asterisks create both bold and italicized text:
@@ -37,12 +36,10 @@ One asterisk creates an italicized text; two asterisks create a bold text; and t
 **Text**
 ***Text***
 
----
 
 TO create a hypertext link, you would use the following syntax; `[Name of Link](https://website-url)`
 [GitHub](https://github.com)
 
----
 
 You can create a bulleted (unordered) list by using the following three symbols `*`,`-`,`+` followed by a space, then the text:
 * Text 1
@@ -51,7 +48,6 @@ You can create a bulleted (unordered) list by using the following three symbols 
 
 + Text 3
 
----
 
 ## Conclusion
 
