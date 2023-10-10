@@ -22,9 +22,10 @@ Let's look at some examples.
 
 * You can create a heading by using the pound `#` sign at the beginning of a line, followed by a single space, then the desired text. Consecutive pound signs 
 create incrementally smaller headings. The largest heading is created with one `#` sign and the smallest heading with six `#` signs:
-# -> The Largest Heading
-###### -> The Smallest Heading
-
+```md
+# The Largest Heading
+###### The Smallest Heading
+```
 
 * You can make a text `bold` or `italicized` for emphasis by using asterisks `*` symbol directly before and after a word or phrase.
 One asterisk creates an italicized text; two asterisks create a bold text; and three asterisks create both bold and italicized text:
