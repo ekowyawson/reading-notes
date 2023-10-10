@@ -47,3 +47,7 @@ One asterisk creates an italicized text; two asterisks create a bold text; and t
 ## Conclusion
 
 Markdown is an awesome tool for anyone who is interested in coding websites or simply authoring online documents/blogs.
+
+## Reference
+
+[Markdown Guide](https://www.markdownguide.org/getting-started/)
