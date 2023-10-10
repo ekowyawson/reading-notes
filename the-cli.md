@@ -41,3 +41,5 @@ touch new-project/newfile.md
 cd ..
 ls projects/new-project
 ```
+
+[CLI and Text Editors](https://ekowyawson.github.io/reading-notes/the-cli)
