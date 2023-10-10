@@ -20,12 +20,9 @@ simple to use, with a shallow learning curve.
 ## Markdown Examples:
 Let's look at some examples. 
 
-You can create a heading by using the pound `#` sign at the beginning of a line, followed by a single space, then the desired text.
-Consecutive pound signs create incrementally smaller headings:
-
-Create the largest heading with one `#` sign and the smallest heading with six `#` signs:
+You can create a heading by using the pound `#` sign at the beginning of a line, followed by a single space, then the desired text. Consecutive pound signs 
+create incrementally smaller headings. The largest heading is created with one `#` sign and the smallest heading with six `#` signs:
 # -> The Largest Heading
-
 ###### -> The Smallest Heading
 
 
