@@ -37,7 +37,8 @@ One asterisk creates an italicized text; two asterisks create a bold text; and t
 ***Text***
 
 
-TO create a hypertext link, you would use the following syntax; `[Name of Link](https://website-url)`
+TO create a hypertext link, you would use the following syntax; `[Name of Link](https://website-url)`:
+
 [GitHub](https://github.com)
 
 
