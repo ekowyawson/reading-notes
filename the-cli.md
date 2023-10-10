@@ -1,4 +1,4 @@
-# Introduction to the Command Line Interface (CLI) and Text Editors
+# Command Line Interface (CLI) and Text Editors
 
 The command Line Interface (CLI) is a bare text-based interface that allows a computer user to input commands that directly interact with the
 computer operating system (OS). A person can use the CLI to do pretty much everything that can be done using the computer's visual graphical 
