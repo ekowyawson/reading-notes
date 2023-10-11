@@ -26,9 +26,14 @@ Lastly, I love the beach and warm weather. Welcome to my journey!
 
 Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 
-### Topic Links
+### Code 102 Reading Notes
 
 [Learning Markdown](https://ekowyawson.github.io/reading-notes/102-notes/1_learning-markdown)
+
 [The Coder's Computer](https://ekowyawson.github.io/reading-notes/102-notes/2_the-coders-computer)
+
 [Revisions In The Cloud](https://ekowyawson.github.io/reading-notes/102-notes/3_revisions-and-the-cloud)
+
 [Structure Web Pages With HTML](https://ekowyawson.github.io/reading-notes/102-notes/4_structure-web-pages-with-html)
+
+### Code 201 Reading Notes
