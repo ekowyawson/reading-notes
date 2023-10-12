@@ -14,7 +14,7 @@ CSS stands for *Cascading Style Sheets*. It is used to style web pages. In the e
 
 The need for a separate technology to handle the styling and layout of web pages became increasingly apparent. In 1994, **HÃ¥kon Wium Lie** proposed the idea of CSS to the *World Wide Web Consortium* (**W3C**). W3C accepted HÃ¥kon Wium Lie's proposal, adopted, and published the first CSS specification *CSS1* in 1996.
 
-Today, CSS has evolved so much that it has now has multiple dedicated frameworks.
+Today, CSS has evolved so much that it now has multiple dedicated frameworks.
 
 ## What is the purpose of CSS?
 
@@ -25,7 +25,7 @@ As discussed previously in this blog, CSS is primarily used to style webpages (t
 The three ways to insert CSS into your web project are: 1) external; 2) internal; 3) inline:
 
 1. **External CSS**: To add an external CSS, you would create a separate file, with a *.css* extension, within your folder structure. You would then link that css file to your *html* file by using `<link>` tags inside the `<head>` element.
-2. **Internal CSS**: To add internal CSS to your project, you would write the CSS code directly inside the html file using `<style>` tags inside the `<header>` element.
+2. **Internal CSS**: To add internal CSS to your project, you would write the CSS code directly inside the html file using `<style>` tags inside the `<head>` element.
 3. **Inline CSS**: Inline CSS, as the name implies, is added directly to the specific line, or tag, that you are currently writing. The CSS code would be placed inside the element's beginning tag as a `style` attribute.
 
 ## An example of a CSS rule that would give all `<p>` elements red text
