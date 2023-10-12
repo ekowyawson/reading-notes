@@ -10,15 +10,31 @@ Now let us answer some questions regarding JavaScript.
 
 ## What are variables in JavaScript?
 
-Variables in JavaScript are used to store and manage data. They act as containers for values, which can be *numbers, strings, objects, functions,* or any type of data allowable (JavaScript is considered loosely typed).
+Variables in JavaScript are used to store and manage data. They act as containers for values, which can be *numbers, strings, objects, functions,* or any type of data allowable (JavaScript is considered loosely typed). Example:
+
+```javascript
+const myVar;
+let myVar2;
+var myVar3;
+```
 
 ## What does it mean to declare a variable?
 
-Declaring a variable in JavaScript means to give the variable a name using using one of three keywords: `var`, `let`, or `const`. The choice of keyword determines the variable's scope (*the block level in which the variable can be read, such as globally throughout the script or within a specific function*) and mutability (*the ability to redeclare the variable*).
+Declaring a variable in JavaScript means to give the variable a name using using one of three keywords: `var`, `let`, or `const`. The choice of keyword determines the variable's scope (*the block level in which the variable can be read, such as globally throughout the script or within a specific function*) and mutability (*the ability to redeclare the variable*). Example:
+
+```javascript
+const myVar;
+let myVar2;
+var myVar3;
+```
 
 ## What is an “assignment” operator, and what does it do?
 
-The assignment operator is a singular equal sign `=` and it assigns a value to a variable.
+The assignment operator is a singular equal sign `=` and it assigns a value to a variable. Example:
+
+```javascript
+let thisThing = thatThing;
+```
 
 ## What is information received from the user called?
 
