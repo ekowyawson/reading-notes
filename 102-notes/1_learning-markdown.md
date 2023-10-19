@@ -1,10 +1,10 @@
 # Ekow's Markdown Blog
 
-If you have never written computer code, but you are interested in learning how to build websites, the best introductory coding language to learn is Markdown. Even if you are an adept web developer, Markdown is still a pretty awesome tool that can be used to organize and "`beuatify`" articles and documents. Let us delve into a brief overview of what Markdown is and how to use it.
+If you have never written computer code, but you are interested in learning how to build websites, the best introductory coding language to learn is Markdown. Even if you are an adept web developer, Markdown is still a pretty awesome tool that can be used to organize and **beautify** articles and documents. Let us delve into a brief overview of what Markdown is and how to use it.
 
 ## What is Markdown?
 
-Markdown is considered a lightweight `markup language` (a text-encoding system that tells your computer how to render/display text on the screen). Similar to the `Hyper Text Markup Language` (HTML) that tells websites how to display web pages, Markdown uses standardized encoding to format plain text documents without the need of large word processing programs like Microsoft Word or Adobe's Portable Document Format (PDF). Unlike HTML, Markdown uses a very simple language to create aesthetically pleasing documents; however, it can also use the HTML language to extend functionality.
+**Markdown** is considered a lightweight **markup language** *(a text-encoding system that tells your computer how to render/display text on the screen)*. Similar to the **Hyper Text Markup Language** (HTML) that tells websites how to display web pages, Markdown uses standardized encoding to format plain text documents without the need of large word processing programs like Microsoft Word or Adobe's Portable Document Format (PDF). Unlike HTML, Markdown uses a very simple language to create aesthetically pleasing documents; however, it can also use the HTML language to extend functionality.
 
 ## Why do we use Markdown?
 
@@ -12,24 +12,25 @@ Markdown is used to format text in an online document, blog, website, instant me
 
 ## Markdown Examples:
 
-Let's look at some examples.
+Let's look at a few examples.
 
-* You can create a heading by using the pound `#` sign at the beginning of a line, followed by a single space, then the desired text. Consecutive pound signs create incrementally smaller headings. The largest heading is created with one `#` sign and the smallest heading with six `#` signs:
+* You can create a heading by using the pound **#** sign at the beginning of a line, followed by a single space, then the desired text. Consecutive pound signs create incrementally smaller headings. The largest heading is created with one **#** sign and the smallest heading with six **#** signs:
 
 ```markdown
 # The Largest Heading
 ###### The Smallest Heading
 ```
 
-* You can make a text `bold` or `italicized` for emphasis by using asterisks `*` symbol directly before and after a word or phrase. One asterisk creates an italicized text; two asterisks create a bold text; and three asterisks create both bold and italicized text: *Text*, **Text**, and ***Text***
+* You can make a text `bold` or `italicized` for emphasis by using asterisks `*` symbol directly before and after a word or phrase. One asterisk creates an italicized text; two asterisks create a bold text; and three asterisks create both bold and italicized text: *Text*, **Text**, and ***Text***.
 
-* TO create a hypertext link, you would use the following syntax; `[Name of Link](https://website-url)`: [GitHub](https://github.com)
+* TO create a hypertext link, you would use the following syntax: 
+  * `[Name of Link](https://website-url): [GitHub](https://github.com)`
 
 * You can create a bulleted (unordered) list by using the following three symbols `*`,`-`,`+` followed by a space, then the text:
 
-    * Text 1
-    - Test 2
-    + Text 3
+    * Text 1 using `*`
+    - Test 2 using `-`
+    + Text 3 using `+`
 
 ## Conclusion
 
@@ -37,4 +38,4 @@ Markdown is an awesome tool for anyone who is interested in coding websites or s
 
 ## Reference
 
-[Markdown Guide](https://www.markdownguide.org/getting-started/)
+[Markdown Guide: Getting Started](https://www.markdownguide.org/getting-started/)
