@@ -10,11 +10,11 @@ The **growth mindset** enables the thinker to always search for new and innovati
 
 ## Three reminders to keep a growth mindset
 
-1. **Embrace Challenges**: A problem may be solved today, but may evolve tomorrow so stay open-minded and ready for a challenge.
+* **Embrace Challenges**: A problem may be solved today, but may evolve tomorrow so stay open-minded and ready for a challenge.
    > Never run from a challenge
-2. **Hard Work and Effort**: Maintaining a growth mindset cannot be achieved without putting in effort.
+* **Hard Work and Effort**: Maintaining a growth mindset cannot be achieved without putting in effort.
    > Put in the work
-3. **Failures Are Lessons**: Do not let failure prevent you from attempting difficult tasks.
+* **Failures Are Lessons**: Do not let failure prevent you from attempting difficult tasks.
    > You only fail when you quit
 
 ## About Me
@@ -38,21 +38,21 @@ Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 
 ## Code 201 - Foundations of Software Development
 
-* [Class 01 - Setup Developer Toolbelt](https://ekowyawson.github.io/reading-notes/201-notes/note_1)
-* [Class 02 - Introduction To Web Development](https://ekowyawson.github.io/reading-notes/201-notes/note_2)
-* [Class 03 - Lists, The Box Model, and Loops](https://ekowyawson.github.io/reading-notes/201-notes/note_3)
-* [Class 04 - Links, Layouts, and Functions](https://ekowyawson.github.io/reading-notes/201-notes/note_4)
-* [Class 05 - Images, Color, Text, and More Work With Functions](https://ekowyawson.github.io/reading-notes/201-notes/note_5)
-* [Class 06 - Domain Modeling, Intro to the DOM, and Object Literal Notation](https://ekowyawson.github.io/reading-notes/201-notes/note_6)
-* [Class 07 - HTML Tables and JS Constructor Functions](https://ekowyawson.github.io/reading-notes/201-notes/note_7)
-* [Class 08 - Layout with CSS](https://ekowyawson.github.io/reading-notes/201-notes/note_8)
-* [Class 09 - Forms and Events](https://ekowyawson.github.io/reading-notes/201-notes/note_9)
-* [Class 10 - Debugging and Error Handling](https://ekowyawson.github.io/reading-notes/201-notes/note_10)
-* [Class 11 - Audio and Video in HTML; Domain Modeling Revisited](https://ekowyawson.github.io/reading-notes/201-notes/note_11)
-* [Class 12 - Canvas and ChartJS](https://ekowyawson.github.io/reading-notes/201-notes/note_12)
-* [Class 13 - Introduction to Persistence with Local Storage](https://ekowyawson.github.io/reading-notes/201-notes/note_13)
-* [Class 14 - Documentation, Project Selection, & Team Workflow](https://ekowyawson.github.io/reading-notes/201-notes/note_14)
-* [Class 15 - Course Recap & 301 Preview](https://ekowyawson.github.io/reading-notes/201-notes/note_15)
+1. [Class 01 - Setup Developer Toolbelt](https://ekowyawson.github.io/reading-notes/201-notes/note_1)
+1. [Class 02 - Introduction To Web Development](https://ekowyawson.github.io/reading-notes/201-notes/note_2)
+1. [Class 03 - Lists, The Box Model, and Loops](https://ekowyawson.github.io/reading-notes/201-notes/note_3)
+1. [Class 04 - Links, Layouts, and Functions](https://ekowyawson.github.io/reading-notes/201-notes/note_4)
+1. [Class 05 - Images, Color, Text, and More Work With Functions](https://ekowyawson.github.io/reading-notes/201-notes/note_5)
+1. [Class 06 - Domain Modeling, Intro to the DOM, and Object Literal Notation](https://ekowyawson.github.io/reading-notes/201-notes/note_6)
+1. [Class 07 - HTML Tables and JS Constructor Functions](https://ekowyawson.github.io/reading-notes/201-notes/note_7)
+1. [Class 08 - Layout with CSS](https://ekowyawson.github.io/reading-notes/201-notes/note_8)
+1. [Class 09 - Forms and Events](https://ekowyawson.github.io/reading-notes/201-notes/note_9)
+1. [Class 10 - Debugging and Error Handling](https://ekowyawson.github.io/reading-notes/201-notes/note_10)
+1. [Class 11 - Audio and Video in HTML; Domain Modeling Revisited](https://ekowyawson.github.io/reading-notes/201-notes/note_11)
+1. [Class 12 - Canvas and ChartJS](https://ekowyawson.github.io/reading-notes/201-notes/note_12)
+1. [Class 13 - Introduction to Persistence with Local Storage](https://ekowyawson.github.io/reading-notes/201-notes/note_13)
+1. [Class 14 - Documentation, Project Selection, & Team Workflow](https://ekowyawson.github.io/reading-notes/201-notes/note_14)
+1. [Class 15 - Course Recap & 301 Preview](https://ekowyawson.github.io/reading-notes/201-notes/note_15)
 
 ## Code 301 - Intermediate Software Development
 
