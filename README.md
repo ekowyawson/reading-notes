@@ -1,12 +1,12 @@
-# My Reading Journal Portfolio
+# Reading Notes
 
 ![HTML Image](images/html-structure.png)
 
 ## The "Growth Mindset"
 
-A `growth mindset` is a manner of thinking that beckons the thinker to continuously self-improve, through hard work and dedication, regardless of the thinker's level of proficiency on a subject. The growth mindset is in direct contrast to a `fixed mindset`, in which an individual believes he/she/they are at the peak of his/her/their abilities and intelligence on a particular subject.
+A **growth mindset** is a manner of thinking that beckons the thinker to continuously self-improve, through hard work and dedication, regardless of the thinker's level of proficiency on a subject. The growth mindset is in direct contrast to a `fixed mindset`, in which an individual believes he/she/they are at the peak of his/her/their abilities and intelligence on a particular subject.
 
-The `growth mindset` enables the thinker to always search for new and innovative ways to solve problems, rather than relying on an archaic, *"This is how it has always been done"* mentality. This `fixed mindset` thinking can cripple a person or organization's innovation, ingenuity, and ultimately, their growth.
+The **growth mindset** enables the thinker to always search for new and innovative ways to solve problems, rather than relying on an archaic, *"This is how it has always been done"* mentality. This **fixed mindset** thinking can cripple a person or organization's innovation, ingenuity, and ultimately, their growth.
 
 ## Three reminders to keep a growth mindset
 
@@ -25,7 +25,7 @@ Greetings fellow traveler! My name is Ekow (pronounced 'echo') Yawson. I am a US
 
 Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 
-## Code 102 Reading Notes: Table of Contents
+## Code 102 - Intro to Software Development
 
 1. [Learning Markdown](https://ekowyawson.github.io/reading-notes/102-notes/1_learning-markdown)
 1. [The Coder's Computer](https://ekowyawson.github.io/reading-notes/102-notes/2_the-coders-computer)
@@ -36,20 +36,24 @@ Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 1. [Programming With JavaScript](https://ekowyawson.github.io/reading-notes/102-notes/7_programming_with_javascript)
 1. [Operators and Loops](https://ekowyawson.github.io/reading-notes/102-notes/8_operators_and_loops)
 
-## Code 201 Reading Notes: Table of Contents
+## Code 201 - Foundations of Software Development
 
-1. [Note 01](https://ekowyawson.github.io/reading-notes/201-notes/note_1)
-1. [Note 02](https://ekowyawson.github.io/reading-notes/201-notes/note_2)
-1. [Note 03](https://ekowyawson.github.io/reading-notes/201-notes/note_3)
-1. [Note 04](https://ekowyawson.github.io/reading-notes/201-notes/note_4)
-1. [Note 05](https://ekowyawson.github.io/reading-notes/201-notes/note_5)
-1. [Note 06](https://ekowyawson.github.io/reading-notes/201-notes/note_6)
-1. [Note 07](https://ekowyawson.github.io/reading-notes/201-notes/note_7)
-1. [Note 08](https://ekowyawson.github.io/reading-notes/201-notes/note_8)
-1. [Note 09](https://ekowyawson.github.io/reading-notes/201-notes/note_9)
-1. [Note 10](https://ekowyawson.github.io/reading-notes/201-notes/note_10)
-1. [Note 11](https://ekowyawson.github.io/reading-notes/201-notes/note_11)
-1. [Note 12](https://ekowyawson.github.io/reading-notes/201-notes/note_12)
-1. [Note 13](https://ekowyawson.github.io/reading-notes/201-notes/note_13)
-1. [Note 14](https://ekowyawson.github.io/reading-notes/201-notes/note_14)
-1. [Note 15](https://ekowyawson.github.io/reading-notes/201-notes/note_15)
+* [Class 01 - Setup Developer Toolbelt](https://ekowyawson.github.io/reading-notes/201-notes/note_1)
+* [Class 02 - Introduction To Web Development](https://ekowyawson.github.io/reading-notes/201-notes/note_2)
+* [Class 03 - Lists, The Box Model, and Loops](https://ekowyawson.github.io/reading-notes/201-notes/note_3)
+* [Class 04 - Links, Layouts, and Functions](https://ekowyawson.github.io/reading-notes/201-notes/note_4)
+* [Class 05 - Images, Color, Text, and More Work With Functions](https://ekowyawson.github.io/reading-notes/201-notes/note_5)
+* [Class 06 - Domain Modeling, Intro to the DOM, and Object Literal Notation](https://ekowyawson.github.io/reading-notes/201-notes/note_6)
+* [Class 07 - HTML Tables and JS Constructor Functions](https://ekowyawson.github.io/reading-notes/201-notes/note_7)
+* [Class 08 - Layout with CSS](https://ekowyawson.github.io/reading-notes/201-notes/note_8)
+* [Class 09 - Forms and Events](https://ekowyawson.github.io/reading-notes/201-notes/note_9)
+* [Class 10 - Debugging and Error Handling](https://ekowyawson.github.io/reading-notes/201-notes/note_10)
+* [Class 11 - Audio and Video in HTML; Domain Modeling Revisited](https://ekowyawson.github.io/reading-notes/201-notes/note_11)
+* [Class 12 - Canvas and ChartJS](https://ekowyawson.github.io/reading-notes/201-notes/note_12)
+* [Class 13 - Introduction to Persistence with Local Storage](https://ekowyawson.github.io/reading-notes/201-notes/note_13)
+* [Class 14 - Documentation, Project Selection, & Team Workflow](https://ekowyawson.github.io/reading-notes/201-notes/note_14)
+* [Class 15 - Course Recap & 301 Preview](https://ekowyawson.github.io/reading-notes/201-notes/note_15)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development

@@ -21,8 +21,9 @@ There are tons of different text editors out there to choose from. Most are free
 4. **mkdir** - make directory: creates an empty directory inside your current working directory, or creates directories you specify after at least one space
 5. **touch** - creates an empty file(s) inside the current working directory, or directory you specify after at least one space
 
-## Explain what is happening in the following scenario if these commands and arguments are entered into the command line? 
-*(Arguments are extra instructions given to a command.)*
+## Explain what is happening in the following scenario if these commands and arguments are entered into the command line?
+
+> *(Arguments are extra instructions given to a command.)*
 
 ```bash
 cd projects
