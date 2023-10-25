@@ -12,7 +12,7 @@ There are six levels of headings in HTML, from `<h1>` (the highest level) to `<h
 
 ## What are some uses for the `<sup>` and `<sub>` elements?
 
-The `<sup>` and `<sub>` elements are used to create supercsripts and subscripts (respectively). Some uses for them are to mark dates, chemical formulae, mathematical equations, or a numerical link to reference material.
+The `<sup>` and `<sub>` elements are used to create superscripts and subscripts (respectively). Some uses for them are to mark dates, chemical formulae, mathematical equations, or a numerical link to reference material.
 
 ## When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
 
@@ -59,7 +59,7 @@ The `black` and `5px`
 
 A string.
 
-## List 4 types of JavaScript operators:
+## List 4 types of JavaScript operators
 
 1. Addition operator: `+`
 2. Assignment operator: `=`
