@@ -1,4 +1,4 @@
-# HTML Lists, Control Flow with JS, and the CSS Box Model
+# Class 03: HTML Lists, Control Flow with JS, and the CSS Box Model
 
 ![JavaScript Image](../images/JavaScript-code.jpg)
 
