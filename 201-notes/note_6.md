@@ -4,15 +4,15 @@
 
 ### How would you describe an object to a non-technical friend you grew up with?
 
-Think of a JavaScript object like a container or a box with different compartments, where each compartment can hold something.
+A JavaScript object is like a container or a box with different compartments, where each compartment can hold something.
 Each compartment has a label on it, so you know what's inside.
 
 Say you have an object called "Car." Inside this object, you can have compartments like "Color," "Make," "Model," and "Year."
 In the "Color" compartment, you might have "Blue." In the "Make" compartment, you could have "Toyota." And so on.
 
-The JavaScript object is like a handy way to group related information together. It's just like organizing your stuff in different
+The JavaScript object is like a handy way to group related information together. Similar to organizing your things in different
 compartments to keep everything in order. You can access the information in these compartments easily, and it helps make your code
-more organized and understandable.
+more organized.
 
 ### What are some advantages to creating object literals?
 
