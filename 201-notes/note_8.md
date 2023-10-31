@@ -1,6 +1,6 @@
 # Class 8: CSS Layout
 
-![CSS Flexbox Image](css-flexbox)
+![CSS Flexbox Image](css-flexbox.png)
 
 ## CSS - Flexbox
 
