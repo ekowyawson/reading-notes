@@ -1,4 +1,4 @@
-# Problem Domain, Objects, and the DOM
+# Class 06: Problem Domain, Objects, and the DOM
 
 ## JavaScript Object Basics
 
