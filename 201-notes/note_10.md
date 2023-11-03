@@ -48,6 +48,6 @@ Nothing at the moment.
 
 ## Sources
 
-- Very minimal use of ChatGPT
 - [What went wrong? Troubleshooting JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
 - [The JavaScript Debugger](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools#the_javascript_debugger)
+- Very minimal use of ChatGPT
