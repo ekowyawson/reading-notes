@@ -1,4 +1,4 @@
-# Note 9
+# Class 9: Forms and JS Events
 
 ## HTML Forms
 
