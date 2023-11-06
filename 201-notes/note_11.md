@@ -1,5 +1,7 @@
 # Class 11: Audio, Video, Images
 
+![HTML Video Element Code Image](html-video-image.png)
+
 It is important for web developers to know how to add audio, video, and images in HTML for several reasons including:
 
 - Enhancing User Experience
@@ -66,16 +68,16 @@ entertaining web visitors far and wide.
 
 **Grid** layout and **Flexbox** are both CSS layout models. They differ in the following ways:
 
-- Orientation:
-  - Flexbox is designed for one-dimensional layout, typically used for arranging elements in a row or a column.
+- *Orientation*:
+  - **Flexbox** is designed for one-dimensional layout, typically used for arranging elements in a row or a column.
     Excellent for distributing space along a single axis.
-  - Grid is designed for two-dimensional layout. It creates a grid of rows and columns, allowing you to position elements both horizontally and vertically.
+  - **Grid** is designed for two-dimensional layout. It creates a grid of rows and columns, allowing you to position elements both horizontally and vertically.
     You can align elements in rows and columns simultaneously.
 
-- Use Cases:
-  - Flexbox is ideal for organizing items within a container along a single axis, like a horizontal navigation menu or a list of items.
+- *Use Cases*:
+  - **Flexbox** is ideal for organizing items within a container along a single axis, like a horizontal navigation menu or a list of items.
     It excels at centering and distributing space among items in a row or column.
-  - Grid is more suitable for creating complex, grid-based layouts.
+  - **Grid** is more suitable for creating complex, grid-based layouts.
     It's perfect for designing web pages with multiple sections, aligning elements in both rows and columns, and creating responsive designs.
 
 ### Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences
@@ -100,9 +102,31 @@ entertaining web visitors far and wide.
 
 ### Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
 
+Developers should make images responsive for several important reasons. Beyond just making a site visually appealing across
+different screen sizes, responsive images can also optimize website performance for those different types of devices.
+Another reason for using responsive images is to maintain bandwidth efficiency. Serving appropriately sized images reduces
+the amount of bandwidth consumed, which is especially critical for mobile users with limited data plans.
+
 ### Define the following `<img>` attributes `srcset` and sizes. Write an example of how they are used
 
 ### How is `srcset` more helpful for responsive images than CSS or JavaScript?
+
+The `srcset` attribute is used in the `<img>` element to provide multiple image sources with different resolutions or sizes.
+It helps the browser select the most appropriate image to display based on the user's device capabilities and screen size.
+
+The `sizes` attribute is used in conjunction with the `srcset` attribute to specify the layout breakpoints and define the
+image's display size under different conditions.
+
+The following is an example of use:
+
+```html
+<img
+  src="some-crazy.jpg"
+  srcset="a-crazier.jpg 800w, even-crazier.jpg 1600w"
+  sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 25vw"
+  alt="My Responsive Image With Different Sizes"
+/>
+```
 
 ## Things I want to know more about
 
