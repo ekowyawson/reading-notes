@@ -68,15 +68,15 @@ entertaining web visitors far and wide.
 
 - Orientation:
   - Flexbox is designed for one-dimensional layout, typically used for arranging elements in a row or a column.
-    - Excellent for distributing space along a single axis.
+    Excellent for distributing space along a single axis.
   - Grid is designed for two-dimensional layout. It creates a grid of rows and columns, allowing you to position elements both horizontally and vertically.
-    - You can align elements in rows and columns simultaneously.
+    You can align elements in rows and columns simultaneously.
 
 - Use Cases:
   - Flexbox is ideal for organizing items within a container along a single axis, like a horizontal navigation menu or a list of items.
-    - It excels at centering and distributing space among items in a row or column.
+    It excels at centering and distributing space among items in a row or column.
   - Grid is more suitable for creating complex, grid-based layouts.
-    - It's perfect for designing web pages with multiple sections, aligning elements in both rows and columns, and creating responsive designs.
+    It's perfect for designing web pages with multiple sections, aligning elements in both rows and columns, and creating responsive designs.
 
 ### Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences
 
@@ -110,7 +110,7 @@ Nothing at this moment.
 
 ## Sources
 
-[Minimal assistance with ChatGPT](https://chat.openai.com/)
-[Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
-[A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-[Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+- [Minimal assistance with ChatGPT](https://chat.openai.com/)
+- [Video and Audio Content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+- [A Complete Guide To Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
