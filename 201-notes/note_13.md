@@ -41,3 +41,8 @@ methods to store objects as a string, and then parse them into objects when we n
 
 I want to know more about the amount of data that can be "feasibly" stored in local storage and the strain
 it can possibly cause on the user's system if the that hypothetical max is being reached.
+
+## Sources
+
+- [Local Storage and How To Use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
+- [The Past, Present, and Future of Local Storage for Web Applications](http://diveinto.html5doctor.com/storage.html)
