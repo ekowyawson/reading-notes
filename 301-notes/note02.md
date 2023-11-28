@@ -1,5 +1,7 @@
 # Class 02: State and Props
 
+This topic is important because it is the basis of why we use React. State and Pros are sort of the backbone of React components.
+
 ## React Lifecycle
 
 ### Based off the diagram, what happens first, the 'render' or the 'componentDidMount'?
