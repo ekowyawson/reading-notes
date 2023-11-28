@@ -56,4 +56,7 @@ Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 
 ## Code 301 - Intermediate Software Development
 
+1. [Class 01 - Introduction to React and Components](https://ekowyawson.github.io/reading-notes/301-notes/note01)
+2. [Class 02 - State and Props](https://ekowyawson.github.io/reading-notes/301-notes/note02)
+
 ## Code 401 - Advanced Software Development
