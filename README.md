@@ -58,5 +58,7 @@ Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 
 1. [Class 01 - Introduction to React and Components](https://ekowyawson.github.io/reading-notes/301-notes/note01)
 2. [Class 02 - State and Props](https://ekowyawson.github.io/reading-notes/301-notes/note02)
+3. [Class 03 - Passing Functions as Props](https://ekowyawson.github.io/reading-notes/301-notes/note03)
+4. [Class 04 - React and Forms](https://ekowyawson.github.io/reading-notes/301-notes/note04)
 
 ## Code 401 - Advanced Software Development
