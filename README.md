@@ -60,17 +60,7 @@ Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 2. [Class 02 - State and Props](https://ekowyawson.github.io/reading-notes/301-notes/note02)
 3. [Class 03 - Passing Functions as Props](https://ekowyawson.github.io/reading-notes/301-notes/note03)
 4. [Class 04 - React and Forms](https://ekowyawson.github.io/reading-notes/301-notes/note04)
-5. [Class 05](https://ekowyawson.github.io/reading-notes/301-notes/note05)
-6. [Class 06](https://ekowyawson.github.io/reading-notes/301-notes/note06)
-7. [Class 07](https://ekowyawson.github.io/reading-notes/301-notes/note07)
-8. [Class 08](https://ekowyawson.github.io/reading-notes/301-notes/note08)
-9. [Class 09](https://ekowyawson.github.io/reading-notes/301-notes/note09)
-10. [Class 10](https://ekowyawson.github.io/reading-notes/301-notes/note10)
-11. [Class 11](https://ekowyawson.github.io/reading-notes/301-notes/note11)
-12. [Class 12](https://ekowyawson.github.io/reading-notes/301-notes/note12)
-13. [Class 13](https://ekowyawson.github.io/reading-notes/301-notes/note13)
-14. [Class 14](https://ekowyawson.github.io/reading-notes/301-notes/note14)
-15. [Class 15 - Authentication](https://ekowyawson.github.io/reading-notes/301-notes/note15)
+5. [Class 15 - Authentication](https://ekowyawson.github.io/reading-notes/301-notes/note15)
 
 ## Code 401 - Advanced Software Development
 
