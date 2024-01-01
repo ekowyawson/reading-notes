@@ -38,7 +38,7 @@ Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 
 ## Code 201 - Foundations of Software Development
 
-1. [Class 01 - Setup Developer Toolbelt](https://ekowyawson.github.io/reading-notes/201-notes/note_1)
+1. [Class 01 - Setup Developer Tool-belt](https://ekowyawson.github.io/reading-notes/201-notes/note_1)
 1. [Class 02 - Introduction To Web Development](https://ekowyawson.github.io/reading-notes/201-notes/note_2)
 1. [Class 03 - Lists, The Box Model, and Loops](https://ekowyawson.github.io/reading-notes/201-notes/note_3)
 1. [Class 04 - Links, Layouts, and Functions](https://ekowyawson.github.io/reading-notes/201-notes/note_4)
@@ -63,6 +63,9 @@ Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 5. [Class 15 - Authentication](https://ekowyawson.github.io/reading-notes/301-notes/note15)
 
 ## Code 401 - Advanced Software Development
+
+- [Prep: Growth Mindset](https://ekowyawson.github.io/reading-notes/401-notes/prep-GrowthMindset)
+- [Prep: SQL Practice](https://ekowyawson.github.io/reading-notes/401-notes/prep-sqlPractice)
 
 1. [Class 01 - Topic](https://ekowyawson.github.io/reading-notes/401-notes/note01)
 2. [Class 02 - Testing and Modules](https://ekowyawson.github.io/reading-notes/401-notes/note02)
