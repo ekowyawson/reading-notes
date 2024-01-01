@@ -66,7 +66,7 @@ Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 
 - [Prep: Growth Mindset](https://ekowyawson.github.io/reading-notes/401-notes/prep-GrowthMindset)
 - [Prep: SQL Practice](https://ekowyawson.github.io/reading-notes/401-notes/prep-sqlPractice)
-- [Prep: The Command Line](https://ekowyawson.github.io/reading-notes/401-notes/prep-theCommandLine.md)
+- [Prep: The Command Line](https://ekowyawson.github.io/reading-notes/401-notes/prep-theCommandLine)
 
 1. [Class 01 - Topic](https://ekowyawson.github.io/reading-notes/401-notes/note01)
 2. [Class 02 - Testing and Modules](https://ekowyawson.github.io/reading-notes/401-notes/note02)
