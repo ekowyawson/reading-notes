@@ -10,7 +10,7 @@ Understanding data structures and algorithms is crucial when learning Python, or
 
 ## How can we ensure that we’ll avoid an infinite recursive call stack?
 
-**Avoiding Infinite Recursive Call Stack**: To ensure that we avoid an infinite recursive call stack in Python, it's crucial to implement a **base case** in the recursive function. A **base case** is a condition that does not recur and thus stops the recursion. Without a base case, the function would call itself indefinitely, leading to a **stack overflow** error. 
+**Avoiding Infinite Recursive Call Stack**: To ensure that we avoid an infinite recursive call stack in Python, it's crucial to implement a **base case** in the recursive function. A **base case** is a condition that does not recur and thus stops the recursion. Without a base case, the function would call itself indefinitely, leading to a **stack overflow** error.
 
 Additionally, it's important to make sure that each recursive call progresses towards the base case. This typically involves modifying the parameters of the recursive call in such a way that each subsequent call moves closer to a condition where the base case is met, effectively ensuring the recursion will eventually terminate.
 
