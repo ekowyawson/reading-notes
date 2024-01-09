@@ -1,4 +1,4 @@
-# Prep: The Growth Mindset
+# Prep: Data Structures and Algorithms
 
 ## Why This Topic Matters
 
