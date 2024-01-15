@@ -73,7 +73,7 @@ Click [here](https://github.com/ekowyawson) to visit my GitHub portfolio.
 1. [Class 01 - Topic](https://ekowyawson.github.io/reading-notes/401-notes/note01)
 2. [Class 02 - Testing and Modules](https://ekowyawson.github.io/reading-notes/401-notes/note02)
 3. [Class 03 - FileIO & Exceptions](https://ekowyawson.github.io/reading-notes/401-notes/note03)
-4. [Class 04 - Topic](https://ekowyawson.github.io/reading-notes/401-notes/note04)
+4. [Class 04 - Recursion](https://ekowyawson.github.io/reading-notes/401-notes/note04)
 5. Class 05
 6. [Class 06 - Ten Thousand Game 1](https://ekowyawson.github.io/reading-notes/401-notes/note06)
 7. [Class 07 - Ten Thousand 2](https://ekowyawson.github.io/reading-notes/401-notes/note07)
